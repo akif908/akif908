@@ -238,13 +238,7 @@ transactions**, where class imbalance, temporal drift and explainability matter 
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=akif908&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub trophies"/>
-
-</div>
 
 ---
 

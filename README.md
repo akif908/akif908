@@ -137,9 +137,7 @@ check **real-time slot availability** and book charging sessions — all from An
 <a href="https://github.com/akif908/EV-finder">
   <img src="https://img.shields.io/badge/View_Repository-%E2%86%92-0EA5E9?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" alt="View Repository"/>
 </a>
-<a href="https://github.com/akif908/EV-finder">
-  <img src="https://img.shields.io/badge/Android_App-3DDC84?style=for-the-badge&labelColor=0B1220&logo=android&logoColor=white" alt="Android app"/>
-</a>
+
 </p>
 
 </td>
@@ -168,9 +166,7 @@ segmented customers and a predictive churn model with full EDA visualizations.
 <a href="https://github.com/akif908/olist-Data-Mining">
   <img src="https://img.shields.io/badge/View_Repository-%E2%86%92-0EA5E9?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" alt="View Repository"/>
 </a>
-<a href="https://github.com/akif908/olist-Data-Mining">
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&labelColor=0B1220&logo=jupyter&logoColor=white" alt="Jupyter notebook"/>
-</a>
+
 </p>
 
 </td>

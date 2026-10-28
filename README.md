@@ -25,7 +25,7 @@
 <a href="#-featured-projects"><b>Projects</b></a> &nbsp;•&nbsp;
 <a href="#-research"><b>Research</b></a> &nbsp;•&nbsp;
 <a href="#-technology-stack"><b>Tech Stack</b></a> &nbsp;•&nbsp;
-<a href="#-github-overview"><b>Stats</b></a>
+<a href="#-achievements"><b>Achievements</b></a>
 
 <img src="https://komarev.com/ghpvc/?username=akif908&label=Profile%20Views&color=0EA5E9&style=flat-square" alt="Profile views"/>
 
@@ -33,7 +33,7 @@
 
 ---
 
-## � About Me
+## 👋 About Me
 
 ```python
 akif = {
@@ -51,7 +51,7 @@ enjoy turning messy data into clear, defensible decisions.
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -99,7 +99,14 @@ order medicines and consult doctors online, while admins manage inventory, suppl
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-<a href="https://github.com/akif908/medicline-pharma"><b>View Repository →</b></a>
+<p>
+<a href="https://github.com/akif908/medicline-pharma">
+  <img src="https://img.shields.io/badge/View_Repository-%E2%86%92-0EA5E9?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" alt="View Repository"/>
+</a>
+<a href="https://github.com/akif908/medicline-pharma#readme">
+  <img src="https://img.shields.io/badge/Architecture_Docs-%E2%86%92-0284C7?style=for-the-badge&labelColor=0B1220&logo=markdown&logoColor=white" alt="Architecture docs"/>
+</a>
+</p>
 
 </td>
 </tr>
@@ -126,7 +133,14 @@ check **real-time slot availability** and book charging sessions — all from An
 <img src="https://img.shields.io/badge/Full%20Stack-0284C7?style=flat-square" alt="Full Stack"/>
 </p>
 
-<a href="https://github.com/akif908/EV-finder"><b>View Repository →</b></a>
+<p>
+<a href="https://github.com/akif908/EV-finder">
+  <img src="https://img.shields.io/badge/View_Repository-%E2%86%92-0EA5E9?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" alt="View Repository"/>
+</a>
+<a href="https://github.com/akif908/EV-finder">
+  <img src="https://img.shields.io/badge/Android_App-3DDC84?style=for-the-badge&labelColor=0B1220&logo=android&logoColor=white" alt="Android app"/>
+</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -150,7 +164,14 @@ segmented customers and a predictive churn model with full EDA visualizations.
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-<a href="https://github.com/akif908/olist-Data-Mining"><b>View Repository →</b></a>
+<p>
+<a href="https://github.com/akif908/olist-Data-Mining">
+  <img src="https://img.shields.io/badge/View_Repository-%E2%86%92-0EA5E9?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" alt="View Repository"/>
+</a>
+<a href="https://github.com/akif908/olist-Data-Mining">
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&labelColor=0B1220&logo=jupyter&logoColor=white" alt="Jupyter notebook"/>
+</a>
+</p>
 
 </td>
 </tr>
@@ -184,46 +205,44 @@ transactions**, where class imbalance, temporal drift and explainability matter 
 
 <div align="center">
 
-**Languages & Tools**
-
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,js,html,css,mysql,git,github,vscode,jupyter&theme=dark" alt="Technology icons"/>
-
-<br/><br/>
-
-**Data Science & Machine Learning**
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-
-<br/><br/>
-
-**Engineering**
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+<table>
+<tr>
+<td align="center" width="25%">
+<b>💻 Languages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,js,html,css&theme=dark&perline=3" alt="Languages"/>
+</td>
+<td align="center" width="25%">
+<b>🧠 Data Science & ML</b><br/><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
+<br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</td>
+<td align="center" width="25%">
+<b>🏗️ Backend & Data</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=spring,mysql&theme=dark&perline=2" alt="Backend"/>
+<br/>
+<img src="https://img.shields.io/badge/WebSocket%20%2F%20STOMP-010101?style=flat-square" alt="WebSocket"/>
+</td>
+<td align="center" width="25%">
+<b>⚙️ Tools & Workflow</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark&perline=2" alt="Tools"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 GitHub Overview
+## 🏆 Achievements
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akif908&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akif908&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&langs_count=8" alt="Most used languages"/>
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=akif908&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=E0F2FE&sideNums=E0F2FE" alt="Contribution streak"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akif908&bg_color=0B1220&color=38BDF8&line=0EA5E9&point=E0F2FE&area=true&hide_border=true" alt="Contribution graph"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=akif908&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub trophies"/>
 
 </div>
 

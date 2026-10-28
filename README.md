@@ -1,106 +1,118 @@
 <!--
-  GitHub Profile README
-  Repository: akif908
-  Display name: Akif Khan
---><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0B1220&text=AKIF%20KHAN&fontColor=E2F3FF&fontSize=52&fontAlignY=42&desc=DATA%20SCIENCE%20%20%2F%2F%20%20MACHINE%20LEARNING%20%20%2F%2F%20%20SOFTWARE&descAlignY=68&descSize=13" width="100%" alt="Akif Khan banner" /><br/>Computer Science & Engineering Student · Data Science Enthusiast
+GitHub Profile README
+Repository: https://github.com/akif908/akif908
+Theme: Dark + Sky Blue
+--><div align="center">  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:102A43,100:0EA5E9&height=180&section=header&text=AKIF&fontSize=58&fontColor=E0F2FE&fontAlignY=45&desc=Computer%20Science%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descSize=15&descAlignY=72&descColor=BAE6FD" width="100%" alt="Akif profile header" />  <br/>  <a href="https://github.com/akif908">
+    <img src="https://img.shields.io/badge/GitHub-akif908-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-0284C7?style=for-the-badge" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Interest-Machine%20Learning-0369A1?style=for-the-badge" alt="Machine Learning"/><br/><br/>
 
-Building useful software. Exploring intelligent systems. Learning by doing.
-
-<br/>""GitHub" (https://img.shields.io/badge/GitHub-akif908-111827?style=flat-square&logo=github&logoColor=white)" (https://github.com/akif908)
-"Data Science" (https://img.shields.io/badge/INTEREST-DATA%20SCIENCE-38BDF8?style=flat-square)
-"Machine Learning" (https://img.shields.io/badge/INTEREST-MACHINE%20LEARNING-818CF8?style=flat-square)
+  <h3>Building with curiosity. Learning through experimentation.</h3>  <p>
+    Computer Science and Engineering student interested in
+    <b>data-driven problem solving, machine learning, and practical software development.</b>
+  </p><a href="#featured-projects">Explore Projects</a>
+  •  
+<a href="#research">Research</a>
+  •  
+<a href="#technology-stack">Tech Stack</a>
 
 </div>---
 
-About
+👨‍💻 About Me
 
-I'm Akif Khan, a Computer Science and Engineering student interested in data science, machine learning, and software development.
+- 🎓 Computer Science and Engineering student
+- 📊 Interested in Data Science and applied Machine Learning
+- 🔬 Exploring research-driven approaches to real-world problems
+- 💳 Working on Real-Time Fraud Detection in Digital Payments
+- 🌱 Continuously improving my skills through projects and experimentation
 
-I enjoy working with data, building practical applications, and exploring how intelligent systems can solve real-world problems.
+I enjoy turning data into useful insights and developing software that addresses practical problems. My interests span data analysis, classical machine learning, model evaluation, and explainable AI.
 
-- 🎓 Computer Science & Engineering
-- 📊 Data mining, analytics, and machine learning
-- 🔬 Researching fraud detection in digital payments
-- 📱 Interested in software and Android development
+🛠️ Technology Stack
 
----
+<div align="center">Languages & Development
 
-Selected Work
+<img src="https://skillicons.dev/icons?i=python,kotlin,js,html,css,git,github,vscode&theme=dark" alt="Technology icons"/>Data Science & Machine Learning
 
-<div align="center"><table>
-<tr>
-<td width="50%" valign="top"><h3>01 &nbsp; Olist Data Mining</h3>Customer analytics and data mining using e-commerce data.
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></div>Keep only the languages and tools you can comfortably discuss or demonstrate. Add more as your experience grows.
 
-What I explored
+🚀 Featured Projects
 
-- Data cleaning and preprocessing
-- RFM customer analysis
-- K-means customer segmentation
-- Random Forest churn prediction
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Olist Data Mining</h3>
+      <p>Data mining and e-commerce analytics focused on customer behavior and business insights.</p>
+      <ul>
+        <li>Data cleaning and exploratory analysis</li>
+        <li>RFM analysis and customer segmentation</li>
+        <li>K-means clustering</li>
+        <li>Random Forest churn modeling</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-0284C7?style=flat-square" alt="Machine Learning"/>
+      </p>
+      <a href="https://github.com/akif908/olist-Data-Mining"><b>View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ EV Finder</h3>
+      <p>A mobile application designed to help electric vehicle owners discover charging stations and manage charging sessions.</p>
+      <ul>
+        <li>Find nearby EV charging stations</li>
+        <li>Check charging-slot availability</li>
+        <li>Book charging sessions</li>
+        <li>Mobile-focused user experience</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+        <img src="https://img.shields.io/badge/Mobile%20Development-0284C7?style=flat-square" alt="Mobile Development"/>
+      </p>
+      <a href="https://github.com/akif908/EV-finder"><b>View Repository →</b></a>
+    </td>
+  </tr>
+</table>🔬 Research
 
-Tools
+Real-Time Fraud Detection in Digital Payments
 
-"Python" "Pandas" "Scikit-learn"
+My current research project investigates machine learning methods for identifying fraudulent digital payment transactions.
 
-<br/><a href="https://github.com/akif908/olist-Data-Mining">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=0B1220" alt="View Olist Data Mining project" />
-</a></td>
-<td width="50%" valign="top"><h3>02 &nbsp; EV Finder</h3>An Android application concept for finding electric vehicle charging stations.
+Research interests
 
-What it focuses on
+- Fraud detection and imbalanced classification
+- Classical machine learning and ensemble methods
+- Explainable AI and model evaluation
+- Behavioral and temporal transaction features
+- Model performance and operational trade-offs
 
-- Charging station discovery
-- Charging availability
-- Booking-oriented functionality
-- Android application development
+Status: Research and experimentation in progress.
 
-Tools
+«The goal is to evaluate models carefully across different datasets and understand not only predictive performance, but also explainability and practical limitations.»
 
-"Kotlin" "Android"
+📈 GitHub Overview
 
-<br/><a href="https://github.com/akif908/EV-finder">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=0B1220" alt="View EV Finder project" />
-</a></td>
-</tr>
-</table></div>---
+<div align="center">  <img src="https://github-readme-stats.vercel.app/api?username=akif908&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" height="165" alt="GitHub statistics"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akif908&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" height="165" alt="Most used languages"/>  <br/>  <img src="https://streak-stats.demolab.com?user=akif908&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=E0F2FE&sideNums=E0F2FE" width="70%" alt="GitHub contribution streak"/></div>🎯 Current Focus
 
-Research Focus
+- Strengthening my machine learning and data analysis skills
+- Developing well-documented, reproducible projects
+- Exploring research questions in fraud detection
+- Improving software development and GitHub practices
 
-<div align="center"><img src="https://img.shields.io/badge/ONGOING%20RESEARCH-7C3AED?style=flat-square" alt="Ongoing research" />Real-Time Fraud Detection in Digital Payments
+🤝 Connect
 
-</div>An ongoing research project investigating machine learning methods for detecting fraudulent transactions in digital payment environments.
+<div align="center">  <a href="https://github.com/akif908">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a><br/><br/>
 
-Research direction| Focus
-Hybrid learning| Autoencoder anomaly scores and ensemble models
-Feature engineering| Behavioral and temporal transaction patterns
-Imbalanced learning| Class weighting and resampling strategies
-Explainability| Understanding model decisions
-Evaluation| Reliable performance and operational trade-offs
+<i>Curious mind. Practical projects. Continuous learning.</i>
 
-The objective is to develop a careful, leakage-aware evaluation framework for fraud detection across different datasets and environments.
+</div>---
 
----
-
-Technical Interests
-
-<div align="center"><img src="https://skillicons.dev/icons?i=python,java,kotlin,js,html,css,git,github,androidstudio,vscode&theme=dark" alt="Programming languages and development tools" /><br/><br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /></div>---
-
-GitHub Overview
-
-<div align="center"><a href="https://github.com/akif908">
-  <img src="https://github-readme-stats.vercel.app/api?username=akif908&show_icons=true&hide_title=true&hide_border=true&bg_color=0B1220&text_color=C7D2E0&icon_color=38BDF8&rank_icon=github" height="150" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/akif908">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akif908&layout=compact&hide_border=true&bg_color=0B1220&text_color=C7D2E0&title_color=38BDF8" height="150" alt="Most used languages" />
-</a></div>---
-
-<div align="center">Curiosity → Experimentation → Insight → Impact
-
-<sub>Thanks for visiting my profile.</sub>
-
+<div align="center">
+  <sub>Thanks for visiting my profile! ✨</sub>
 </div>
